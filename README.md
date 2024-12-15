@@ -10,8 +10,11 @@ Known for my soft skills—encouragement, listening, 1-on-1 engagement, humor, c
 
 
 🕸️Live Sites🕸️
+
 [..Fundrise Property Group](https://buildersmerchantz.com/)
+
 [..Yoga Berries Studio](https://www.yogaberries.co.za/)
+
 [..Le-wagon Landing Page](https://github.com/JosephMarlon/lewagon_landing_page)
 
 
