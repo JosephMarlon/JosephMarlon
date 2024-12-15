@@ -9,9 +9,10 @@ Known for my soft skills—encouragement, listening, 1-on-1 engagement, humor, c
 <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/html5/html5-original.svg#L1" alt="HTML Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/css3/css3-original.svg#L1" alt="css Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/wordpress/wordpress-original.svg#L1" alt="wordpress Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/tailwindcss/tailwindcss-original.svg#L1" alt="tailwind Logo" width="50" height="50"> <img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg#L1" alt="js Logo" width="50" height="50">
 <!--
 
-
-
-
+🕸️Live Sites🕸️
+[..Fundrise Property Group](https://buildersmerchantz.com/)
+[..Yoga Berries Studio](https://www.yogaberries.co.za/)
+[..Le-wagon Landing Page](https://github.com/JosephMarlon/lewagon_landing_page)
 
 
 <!--
