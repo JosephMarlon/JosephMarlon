@@ -10,7 +10,7 @@ Known for my soft skills—encouragement, listening, 1-on-1 engagement, humor, c
 <img src="icons/css3/css3-original.svg" alt="css Logo" width="50" height="50">
 <img src="icons/wordpress/wordpress-plain.svg" alt="wordpress Logo" width="50" height="50">
 <img src="icons/tailwindcss/tailwindcss-original.svg" alt="tailwind Logo" width="50" height="50">
-<img src="icons/javascript/javascript-original.svg" alt="js Logo" width="50" height="50">
+<img src="https://github.com/devicons/devicon/blob/ca28c779441053191ff11710fe24a9e6c23690d6/icons/javascript/javascript-original.svg#L1" alt="js Logo" width="50" height="50">
 <!--
 **JosephMarlon/JosephMarlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
