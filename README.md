@@ -1,5 +1,7 @@
 ## Hi there 👋 I am Joseph Marlon Mabeka
-
+I'm a passionate Website Developer skilled in WordPress, HTML, and CSS, with a knack for designing visually appealing web pages. Currently honing my software development skills as a student at CodeSpace Academy. 
+Tech fascinates me, especially cybersecurity and software development.
+Known for my soft skills—encouragement, listening, 1-on-1 engagement, humor, courtesy, and establishing rapport—I’m excited to collaborate and contribute to innovative projects. Let's build something amazing together! 🚀
 <!--
 **JosephMarlon/JosephMarlon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
